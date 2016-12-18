@@ -1,5 +1,5 @@
 # deluxcms-media for deluxcms
-===========================
+------------------------------
 deluxcms-media是deluxcms中一个多媒体模块，主要是图片管理
 
 安装
